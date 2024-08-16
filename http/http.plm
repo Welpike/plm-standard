@@ -1,5 +1,5 @@
 require "std:datatypes/result"
-require "async"
+require "std:async/async"
 require "std:datatypes/map"
 require "std:classes"
 
